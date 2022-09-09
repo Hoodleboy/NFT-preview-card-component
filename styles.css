@@ -1,0 +1,53 @@
+body {
+  background-color: hsl(217, 54%, 11%);
+  font-family: 'Outfit', sans-serif;
+  font-size: 18px;
+  color: hsl(215, 51%, 70%);
+}
+img {
+  height: 300px;
+  margin: 25px;
+  border-radius: 10px;
+}
+h5 {
+  color: white;
+  line-height: 2;
+}
+h6 {
+  display: inline;
+}
+span {
+  color: white;
+}
+.attribution {
+  text-align: center;
+}
+.dp {
+  height: 30px;
+  margin: 0 5px 0 0;
+}
+.container:hover .image {
+  opacity: 0.3;
+}
+.active:hover {
+  color: hsl(178, 100%, 50%);
+}
+.eth {
+  color: hsl(178, 100%, 50%);
+  font-weight: 600;
+}
+.days {
+  padding-left: 110px;
+}
+.material {
+
+  margin: 0 25px;
+}
+.last-layer {
+  height: 575px;
+  width: 350px;
+  background-color: hsl(216, 50%, 16%);
+  margin: auto;
+  margin-top: 8%;
+  border-radius: 10px;
+}
